@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesvermiumind00kiel_0162.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1382 1406 2146 2566">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1382 1406 2146 2566">
+     <span class='ocr_line' id='line_1_1' title="bbox 1382 1406 2146 2566"><span class='ocrx_word' id='word_1_1' title='bbox 1382 1406 2146 2566; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 87 4198 128 4216">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 87 4198 128 4216">
+     <span class='ocr_line' id='line_1_2' title="bbox 87 4198 128 4216; baseline 0.049 -2"><span class='ocrx_word' id='word_1_2' title='bbox 87 4198 128 4216; x_wconf 43' lang='grc' dir='ltr'><em>περ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 82 4297 129 4326">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 82 4297 129 4326">
+     <span class='ocr_line' id='line_1_3' title="bbox 82 4297 129 4326; baseline 0.021 -1"><span class='ocrx_word' id='word_1_3' title='bbox 82 4297 129 4326; x_wconf 58' lang='lat' dir='ltr'><em>‘em&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
